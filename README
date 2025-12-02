@@ -1,0 +1,30 @@
+#BuyMe auction system, a funcitional auction platform similar to ebay. 
+#Developed by: Juan Ocampo, 
+
+#Credentials needed to navigate the project
+
+Administrator Login:
+- username: admin
+- password: Admin123!
+
+Seller User:
+- username: testuser1
+- password: Temp123!
+
+Buyer User:
+- username: demo_user
+- password: Temp123!
+
+Rep User 2:
+- username: rep2
+- password: Rep2
+Temporary password when resseting user's password from Admin:
+- password: Temp123!
+
+Credentials of db:
+- db.user: app_user
+- db.password: AppPass123!
+
+
+
+
