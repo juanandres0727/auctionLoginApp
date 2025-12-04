@@ -39,7 +39,7 @@ CREATE TABLE `categories` (
 -- Example seed categories (you can change later)
 INSERT INTO categories (name, parent_category_id) VALUES
 ('Electronics', NULL),
-('Clothing',    NULL),
+--('Clothing',    NULL),
 ('Home',        NULL);
 
 INSERT INTO categories (name, parent_category_id) VALUES
